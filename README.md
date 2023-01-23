@@ -1,2 +1,2 @@
-# larvael_absensi_project
+# laravel_absensi_project
 project with Crud, image  upload
